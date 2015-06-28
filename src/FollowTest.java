@@ -8,7 +8,9 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.image.BufferedImage;
 
-
+/**
+ * Implements a test GUI for the position and distance tracking.
+ */
 public class FollowTest {
 
     public static void main(String[] args) throws InterruptedException {
